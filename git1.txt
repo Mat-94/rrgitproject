@@ -1,3 +1,7 @@
 Welcome to JOMACS IT SOLUTIONS INC.
-We are in Calgary, in Canada and with branches
-in Netherlands, Morocco, Nigeria, Ghana and Germany.
+Located in Calgary, AB, Canada
+JOMACS provides services in the following areas:
+DevOps Engineering
+Web Development
+Software Development
+Data Science
